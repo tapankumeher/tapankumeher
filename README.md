@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate with other developers **with other developers**
+- 👯 I’m looking to collaborate **with other developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tapankumeher](https://github.com/tapankumeher)
 
